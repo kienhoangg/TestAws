@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LFVvcdpCYZrqMBfNU/E51woceI8OzGG00StJDFkLcRPFmCTDtMw8kOQo6yhgjgW/29ge3ucF76wdRtV1+krODw==",
+  "success": true,
+  "projectFilePath": "/Users/htkien/TestConsole/TestConsole.csproj",
+  "expectedPackageFiles": [
+    "/Users/htkien/.nuget/packages/aws4requestsigner/1.0.3/aws4requestsigner.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+/Users/htkien/TestConsole/bin/Debug/net5.0/TestConsole.deps.json
+/Users/htkien/TestConsole/bin/Debug/net5.0/TestConsole.runtimeconfig.json
+/Users/htkien/TestConsole/bin/Debug/net5.0/TestConsole.runtimeconfig.dev.json
+/Users/htkien/TestConsole/bin/Debug/net5.0/TestConsole.dll
+/Users/htkien/TestConsole/bin/Debug/net5.0/ref/TestConsole.dll
+/Users/htkien/TestConsole/bin/Debug/net5.0/TestConsole.pdb
+/Users/htkien/TestConsole/obj/Debug/net5.0/TestConsole.csproj.AssemblyReference.cache
+/Users/htkien/TestConsole/obj/Debug/net5.0/TestConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/htkien/TestConsole/obj/Debug/net5.0/TestConsole.AssemblyInfoInputs.cache
+/Users/htkien/TestConsole/obj/Debug/net5.0/TestConsole.AssemblyInfo.cs
+/Users/htkien/TestConsole/obj/Debug/net5.0/TestConsole.csproj.CoreCompileInputs.cache
+/Users/htkien/TestConsole/obj/Debug/net5.0/TestConsole.dll
+/Users/htkien/TestConsole/obj/Debug/net5.0/ref/TestConsole.dll
+/Users/htkien/TestConsole/obj/Debug/net5.0/TestConsole.pdb
+/Users/htkien/TestConsole/obj/Debug/net5.0/TestConsole.genruntimeconfig.cache
+/Users/htkien/TestConsole/bin/Debug/net5.0/Aws4RequestSigner.dll
+/Users/htkien/TestConsole/obj/Debug/net5.0/TestConsole.csproj.CopyComplete

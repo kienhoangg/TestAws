@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/htkien/.dotnet/store/|arch|/|tfm|",
+      "/Users/htkien/.nuget/packages"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "TestConsole/1.0.0": {
+        "dependencies": {
+          "Aws4RequestSigner": "1.0.3"
+        },
+        "runtime": {
+          "TestConsole.dll": {}
+        }
+      },
+      "Aws4RequestSigner/1.0.3": {
+        "runtime": {
+          "lib/netstandard2.0/Aws4RequestSigner.dll": {
+            "assemblyVersion": "1.0.3.0",
+            "fileVersion": "1.0.3.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Aws4RequestSigner/1.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-nRXdbKbNH85aLjmIst7q6v47Owh91RPB1DlkQqXAuVvrVHY1oTePjkAt/2/4L539PSwFMZchn/DK0pYpSsq3Og==",
+      "path": "aws4requestsigner/1.0.3",
+      "hashPath": "aws4requestsigner.1.0.3.nupkg.sha512"
+    }
+  }
+}
